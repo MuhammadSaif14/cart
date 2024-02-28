@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Baby",
+        "price": 9.88,
+        "image": "images/baby1.png"
+    },
+    {
+        "id": 2,
+        "name": "Baby",
+        "price": 9.88,
+        "image": "images/baby2.png"
+    },
+    {
+        "id": 3,
+        "name": "Baby",
+        "price": 9.88,
+        "image": "images/baby5.png"
+    },
+    {
+        "id": 4,
+        "name": "Baby",
+        "price": 9.88,
+        "image": "images/baby7.png"
+    },
+    {
+        "id": 5,
+        "name": "Baby",
+        "price": 9.88,
+        "image": "images/baby8.png"
+    }
+]
